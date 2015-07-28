@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     
     func featurex() {
         
-        println("hfhfh ththth")
+        println("hfhdfh ththth")
         
     }
 
