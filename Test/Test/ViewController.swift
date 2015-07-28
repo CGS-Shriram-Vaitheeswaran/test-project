@@ -35,6 +35,11 @@ class ViewController: UIViewController {
 
 }
 
+    func featureq() {
+
+    println("fnhfhfh")
+
+}
 
 }
 
