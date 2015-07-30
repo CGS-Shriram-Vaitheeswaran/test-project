@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A02B449D1B69E71200939BA3 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02B449C1B69E71200939BA3 /* secondViewController.swift */; };
 		A06000601B68369D00BBE0EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A060005F1B68369D00BBE0EC /* AppDelegate.swift */; };
 		A06000621B68369D00BBE0EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06000611B68369D00BBE0EC /* ViewController.swift */; };
 		A06000651B68369D00BBE0EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A06000631B68369D00BBE0EC /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A02B449C1B69E71200939BA3 /* secondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		A060005A1B68369D00BBE0EC /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A060005E1B68369D00BBE0EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A060005F1B68369D00BBE0EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			children = (
 				A060005F1B68369D00BBE0EC /* AppDelegate.swift */,
 				A06000611B68369D00BBE0EC /* ViewController.swift */,
+				A02B449C1B69E71200939BA3 /* secondViewController.swift */,
 				A06000631B68369D00BBE0EC /* Main.storyboard */,
 				A06000661B68369D00BBE0EC /* Images.xcassets */,
 				A06000681B68369D00BBE0EC /* LaunchScreen.xib */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A06000621B68369D00BBE0EC /* ViewController.swift in Sources */,
+				A02B449D1B69E71200939BA3 /* secondViewController.swift in Sources */,
 				A06000601B68369D00BBE0EC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -409,6 +413,7 @@
 				A060007B1B68369D00BBE0EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A060007C1B68369D00BBE0EC /* Build configuration list for PBXNativeTarget "TestTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				A060007E1B68369D00BBE0EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
