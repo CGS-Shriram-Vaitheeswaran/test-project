@@ -37,7 +37,7 @@ class ViewController: UIViewController {
 }
 
     //feature q
-    func featureq() {
+    func awesomeFeatureZ() {
 
     println("fnhfhfh")
 
