@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     
     //Added comment
     override func didReceiveMemoryWarning() {
+        
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
@@ -31,17 +32,16 @@ class ViewController: UIViewController {
     //gggg :)
     func featurey() {
 
+        println("hfhfh")
 
-    println("hfhfh")
-
-}
+    }
 
     //feature q
-    func awesomeFeatureQ() {
+    func awesomeFeatureQZ() {
 
-    println("fnhfhfh")
+        println("fnhfhfh")
 
-}
+    }
 
 }
 
